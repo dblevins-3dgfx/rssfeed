@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>David subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="https://techcrunch.com"/>
+            <outline type="rss" text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
+            <outline type="rss" text="Stack Overflow Blog" title="Stack Overflow Blog" xmlUrl="http://blog.stackoverflow.com/feed/" htmlUrl="https://stackoverflow.blog"/>
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="Unreal Engine - News, Developer Interviews, Spotlights, Tech Blogs" title="Unreal Engine - News, Developer Interviews, Spotlights, Tech Blogs" xmlUrl="https://www.unrealengine.com/rss" htmlUrl="https://www.unrealengine.com/rss"/>
+            <outline type="rss" text="FiercePharma" title="FiercePharma" xmlUrl="http://www.fiercepharma.com/feed" htmlUrl="https://www.fiercepharma.com/"/>
+            <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom" htmlUrl="https://martinfowler.com"/>
+            <outline type="rss" text="Retraction Watch" title="Retraction Watch" xmlUrl="http://retractionwatch.wordpress.com/feed/" htmlUrl="https://retractionwatch.com"/>
+            <outline type="rss" text="Sutter’s Mill" title="Sutter’s Mill" xmlUrl="http://herbsutter.com/feed/" htmlUrl="https://herbsutter.com"/>
+            <outline type="rss" text="CISA Current Activity" title="CISA Current Activity" xmlUrl="http://www.us-cert.gov/current/index.rdf" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+            <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+            <outline type="rss" text="C++ Team Blog" title="C++ Team Blog" xmlUrl="http://blogs.msdn.com/vcblog/rss.xml" htmlUrl="https://devblogs.microsoft.com/cppblog"/>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+            <outline type="rss" text="Unity Technologies Blog" title="Unity Technologies Blog" xmlUrl="http://blogs.unity3d.com/feed/" htmlUrl="https://blog.unity.com"/>
+            <outline type="rss" text="Unity Coding – Unity3D" title="Unity Coding – Unity3D" xmlUrl="http://unitycoder.com/blog/feed/" htmlUrl="https://unitycoder.com/blog"/>
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="Fluent C++" title="Fluent C++" xmlUrl="http://www.fluentcpp.com/feed/" htmlUrl="https://www.fluentcpp.com"/>
+            <outline type="rss" text="Have I Been Pwned latest breaches" title="Have I Been Pwned latest breaches" xmlUrl="http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches" htmlUrl="https://haveibeenpwned.com/"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+            <outline type="rss" text="DRONELIFE" title="DRONELIFE" xmlUrl="http://dronelife.com/feed/" htmlUrl="https://dronelife.com"/>
+        </outline>
+        <outline text="News" title="News">
+            <outline type="rss" text="Washington Free Beacon" title="Washington Free Beacon" xmlUrl="http://feeds.feedburner.com/FreeBeacon" htmlUrl="https://freebeacon.com"/>
+            <outline type="rss" text="Spokesman.com: News stories" title="Spokesman.com: News stories" xmlUrl="http://www.spokesman.com/feeds/stories/news/" htmlUrl="http://www.spokesman.com"/>
+            <outline type="rss" text="Spokesman.com: Idaho stories" title="Spokesman.com: Idaho stories" xmlUrl="http://www.spokesman.com/feeds/stories/idaho/" htmlUrl="http://www.spokesman.com"/>
+            <outline type="rss" text="www.idahopress.com - RSS Results in eyeonboise of type article" title="www.idahopress.com - RSS Results in eyeonboise of type article" xmlUrl="http://www.idahopress.com/search/?f=rss&amp;t=article&amp;c=eyeonboise&amp;l=50&amp;s=start_time&amp;sd=desc" htmlUrl="https://www.idahopress.com/search/?f=rss&amp;t=article&amp;c=eyeonboise&amp;l=50&amp;s=start_time&amp;sd=desc"/>
+            <outline type="rss" text="The Austin Chronicle - Friday, January 7, 2022" title="The Austin Chronicle - Friday, January 7, 2022" xmlUrl="http://www.austinchronicle.com/gyrobase/rss/issue.xml" htmlUrl="https://www.austinchronicle.com/issues/2022-02-04/"/>
+            <outline type="rss" text="FOX news" title="FOX news" xmlUrl="http://feeds.foxnews.com/foxnews/latest" htmlUrl="https://moxie.foxnews.com/feedburner/latest.xml"/>
+            <outline type="rss" text="San Antonio Report" title="San Antonio Report" xmlUrl="http://www.therivardreport.com/feed/" htmlUrl="https://sanantonioreport.org"/>
+            <outline type="rss" text="Fox News Sunday Audio" title="Fox News Sunday Audio" xmlUrl="http://feeds.feedburner.com/foxnews/podcasts/FoxNewsSundayVideo" htmlUrl="http://radio.foxnews.com/podcasts"/>
+            <outline type="rss" text="dnews.com - RSS Results in local,local/* of type article" title="dnews.com - RSS Results in local,local/* of type article" xmlUrl="http://dnews.com/search/?q=&amp;t=article&amp;l=100&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;nsa=eedition&amp;c[]=local,local/*&amp;f=rss" htmlUrl="https://dnews.com/search/?q=&amp;t=article&amp;l=100&amp;d=&amp;d1=&amp;d2=&amp;s=start_time&amp;sd=desc&amp;nsa=eedition&amp;c%5B%5D=local,local/*&amp;f=rss"/>
+        </outline>
+        <outline text="Culture" title="Culture">
+            <outline type="rss" text="Quillette" title="Quillette" xmlUrl="http://quillette.com/feed/" htmlUrl="https://quillette.com/"/>
+            <outline type="rss" text="Voyage Dallas Magazine | Dallas City Guide" title="Voyage Dallas Magazine | Dallas City Guide" xmlUrl="http://voyagedallas.com/feed/" htmlUrl="http://voyagedallas.com"/>
+            <outline type="rss" text="xkcd" title="xkcd" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+        </outline>
+        <outline text="Politics" title="Politics">
+            <outline type="rss" text="National Review" title="National Review" xmlUrl="http://www.nationalreview.com/rss.xml" htmlUrl="https://www.nationalreview.com"/>
+            <outline type="rss" text="Forum: News/Activism" title="Forum: News/Activism" xmlUrl="http://www.freerepublic.com/tag/news-forum/feed.rss" htmlUrl="https://freerepublic.com/tag/news-forum/"/>
+            <outline type="rss" text="Ricochet" title="Ricochet" xmlUrl="http://ricochet.com/feed/" htmlUrl="https://ricochet.com"/>
+            <outline type="rss" text="The Federalist" title="The Federalist" xmlUrl="http://thefederalist.com/feed/" htmlUrl="https://thefederalist.com"/>
+            <outline type="rss" text="The Corner | National Review" title="The Corner | National Review" xmlUrl="http://www.nationalreview.com/corner/feed" htmlUrl="https://www.nationalreview.com"/>
+            <outline type="rss" text="Columnists" title="Columnists" xmlUrl="http://feeds.feedburner.com/dcexaminer/ColumnsFeed" htmlUrl="https://www.washingtonexaminer.com/tag/columnists"/>
+        </outline>
+    </body>
+</opml>
